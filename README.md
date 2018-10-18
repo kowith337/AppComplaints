@@ -28,5 +28,5 @@ Known good version: 5.7.0.RC02.145020128 (57000262)
 ### [Play of the game Meme](https://play.google.com/store/apps/details?id=net.atlassc.playofthegamememe)
 Known good version: 1.4.1 (25)
 > - Ads, Tracking, Sith lord!
-> - It was an open source, now then...? the devs [removed everything and leave only readme](https://github.com/ShinChven/potg_meme), also no trace to dig back!
+> - It was an open source, now then...? the devs removed everything and leave only readme, also no trace to dig back!
 > - It's not an unexpected from chinese dev(s) that they will built some apps or tools for free, then turn it to non-free or added ads and tracking later, or worst case is sell their works to shady company, like it's happened to QuickPic, Particle (aka YouTube Plus {Chrome Extension}), also Iridium that was added cryptominer and realize what's the problem, then removed it later on.
