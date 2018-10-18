@@ -10,7 +10,7 @@ Just a personal opinion and you should avoid my though.
 All personal opinion (for example, about why i won't update to present/newer versions?) will write in blockquote...
 > like this!
 
-Note: If you want to download older version of apps, consider to use Yalp Store and put the build number from bracket
+Note: If you want to download older version of apps, consider to use [Yalp Store](https://github.com/yeriomin/YalpStore) and put the build number from bracket
 > Login is optional because it will use built-in token dispenser, you can login with your account at your own risk! (because it's **really violate the big brother's terms**)
 
 - - - - -
