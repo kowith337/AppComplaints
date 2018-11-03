@@ -1,17 +1,13 @@
-# AppComplaints
-Just a personal opinion and you should avoid my though.
-
-- - - - -
-
 ### Not all apps are perfect, nor are too good to be, or it was good but not for now... maybe never to be good like old days...
 
 #### This opinion won't coverage to any users that use Android over than 5.0.x
+All newer versions of app will optimise to later OS version of devices, downgrading the apps back to unsupported version is possibly to make apps non-functional, unable to use or the app will permanent crash!
 
 All personal opinion (for example, about why i won't update to present/newer versions?) will write in blockquote...
 > like this!
 
-Note: If you want to download older version of apps, consider to use [Yalp Store](https://github.com/yeriomin/YalpStore) and put the build number from bracket
-> Login is optional because it will use built-in token dispenser, you can login with your account at your own risk! (because it's **really violate the big brother's terms**)
+Note: If you want to download older version of apps, consider to use [Yalp Store](https://github.com/yeriomin/YalpStore) or [Aurora Store](https://forum.xda-developers.com/android/apps-games/galaxy-playstore-alternative-t3739733) and put the build number from bracket
+> Login is optional because those apps will use built-in token dispenser, you can login with your account at your own risk! (because it's **really violate the big brother's terms**)
 
 - - - - -
 
