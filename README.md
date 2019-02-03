@@ -31,6 +31,7 @@ Known good version: 1.4.1 (25)
 Known good version: 4.5.2 (159) or use [Revived version from XDA](https://forum.xda-developers.com/android/apps-games/app-quickpic-v4-5-2-classic-version-t3204543)
 > - Acquished by `Cheetah Mobile` who create crap cleaner and fake security apps, the main feature of them is inject ads and horrible annoyance on your phone!
 > - I hate chinese ppls developers who create the good apps and then inject ads and tracking or resell to company later, same as POTG Meme above, but this app is worst case than that.
+>   
 >   **Why not recommend newer version with modded?**
 >   - Currently, none of any modded versions can remove `Google Firebase` out of this app.
 >   - You can use them at your own risk, but personality, I will trade the privacy over the functionality, my parent use Nokia 6 and I've setup 4.5.2 (with revived version) already, although it's have some UI problem issue like pink text, but I guss the app functionality shouldn't have any problem for now.
