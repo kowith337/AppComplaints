@@ -1,7 +1,7 @@
 ### Not all apps are perfect, nor are too good to be, or it was good but not for now... maybe never to be good like old days...
 
 #### This opinion won't coverage to any users that use Android over than 5.0.x
-All newer versions of app will optimise to later OS version of devices, downgrading the apps back to unsupported version is possibly to make apps non-functional, unable to use or the app will permanent crash!
+All newer versions of app will optimise to later OS version of devices (but it may invade your privacy), downgrading the apps back to unsupported version is possibly to make apps non-functional, unable to use or the app will permanent crash!
 
 All personal opinion (for example, about why i won't update to present/newer versions?) will write in blockquote...
 > like this!
