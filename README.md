@@ -17,7 +17,7 @@ Known good version: 3.0.1 (3010)
 > - **`Google Firebase`** added for tracking and measuring usages
 >   - Even the app already have `Google Analytics`, but it's not enough.
 > - Mind yourself ahead! [more ads and tracking included](https://reports.exodus-privacy.eu.org/en/reports/search/com.anddoes.launcher) !!
->   - Are you plan to moving into their classic version (aka. Gingerbread Apex)? NO! JUST NO!! [BELIEVE ME!!!](https://reports.exodus-privacy.eu.org/en/reports/65345)
+>   - Are you plan to moving into their classic version (aka. Gingerbread Apex)? NO! JUST NO!! [BELIEVE ME!!!](https://reports.exodus-privacy.eu.org/en/reports/search/com.anddoes.gingerapex)
 
 ### [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 Known good version: 5.7.0.RC02.145020128 (57000262)
